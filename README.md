@@ -1,1 +1,1 @@
-# docker-example
+# Jenkins PD Samples and exercises
