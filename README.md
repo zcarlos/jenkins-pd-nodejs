@@ -3,3 +3,4 @@
 ## Jenkins DSL
 ## Jenkins pipeline
 ## Slack and mail integration
+## Dashboards
